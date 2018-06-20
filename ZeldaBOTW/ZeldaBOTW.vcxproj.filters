@@ -14,4 +14,44 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stringtool.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Timeclass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="duty.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Link.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Person.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stringtool.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DTime.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="duty.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>

@@ -110,6 +110,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="duty.cpp" />
+    <ClCompile Include="Link.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Person.cpp" />
+    <ClCompile Include="stringtool.cpp" />
+    <ClCompile Include="Sword.cpp" />
+    <ClCompile Include="Timeclass.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DTime.h" />
+    <ClInclude Include="duty.h" />
+    <ClInclude Include="Person.h" />
+    <ClInclude Include="stringtool.h" />
+    <ClInclude Include="Sword.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
